@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandini Pandey.</h1>
 <h3 align="center">A web aficionado deeply immersed in the world of coding, driven by a passion for problem-solving and dedicated to crafting clean, efficient code for the digital realm.</h3>
 
-<img align="right" alt="coding gif" src="https://jumpshare.com/s/MWgl0PxLzUY6RGLYzrG4">
+<img align="right" alt="coding gif" width=400px src="https://github.com/savarniknandinee/savarniknandinee/blob/main/output-onlinegiftools.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savarniknandinee&label=Profile%20views&color=0e75b6&style=flat" alt="savarniknandinee" /> </p>
 
