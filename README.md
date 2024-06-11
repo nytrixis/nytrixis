@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savarniknandinee&label=Profile%20views&color=0e75b6&style=flat" alt="savarniknandinee" /> </p>
 
-- 🔭 I’m currently working on **StellarScope - Exploring celestial formations through ML.**
+- 🔭 I’m currently working on **Starflix - Exploring celestial formations through ML.**
 
 - 🌱 I’m currently learning **AI/ML.**
 
